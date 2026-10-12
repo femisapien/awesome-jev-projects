@@ -1,0 +1,1 @@
+{"reservationId":"2026-10-12:dc1150218969e12a7229d72a7589e691e55693f556c391593582e0c53d3b9422","runId":"38207273448","runAttempt":1,"status":"reserved","baseLedger":{"version":1,"caseId":"e35aaa4f037c00ffe917e50ae9b920f5a76905ea75f137806133e73d9fe2130e","limitTokens":6000,"chargedTokens":0,"httpAttempts":0,"semanticRounds":0},"grantTokens":6000,"ledger":null}
